@@ -7,7 +7,7 @@
 > Zesong Yang, Ru Zhang, Jiale Shi, Ru Zhang, Zixiang Ai, Boming Zhao, Hujun Bao, Luwei Yang, Zhaopeng Cui,  
 > AAAI 2025
 
-https://github.com/user-attachments/assets/cd83ed26-3fb4-4ec7-932a-288013e633cb
+https://github.com/user-attachments/assets/199a0126-d4f0-4165-ab74-1bfd6f47a80e
 
 ![Pipeline](https://zju3dv.github.io/gurecon/sources/images/pipeline.png)
 
