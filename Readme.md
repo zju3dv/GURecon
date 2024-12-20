@@ -1,9 +1,9 @@
 # GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction
 
 
-### [Project Page](https://zju3dv.github.io/GURecon) | [Paper](https://zju3dv.github.io/gurecon/sources/aaai25_gurecon.pdf) | [Supplementary](https://zju3dv.github.io/gurecon/sources/supp.pdf)
+### [Project Page](https://zju3dv.github.io/GURecon) | [Paper](https://zju3dv.github.io/GURecon/sources/aaai25_gurecon.pdf) | [Arxiv](https://arxiv.org/abs/2412.14939) | [Supplementary](https://zju3dv.github.io/GURecon/sources/supp.pdf)
 
-> [GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction](https://zju3dv.github.io/gurecon),  
+> [GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction](https://zju3dv.github.io/GURecon),  
 > Zesong Yang, Ru Zhang, Jiale Shi, Zixiang Ai, Boming Zhao, Hujun Bao, Luwei Yang, Zhaopeng Cui,  
 > AAAI 2025
 
