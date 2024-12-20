@@ -10,7 +10,7 @@
 
 https://github.com/user-attachments/assets/199a0126-d4f0-4165-ab74-1bfd6f47a80e
 
-![Pipeline](https://zju3dv.github.io/gurecon/sources/images/pipeline.png)
+![Pipeline](https://zju3dv.github.io/GURecon/sources/images/pipeline.png)
 
 ### Citation
 
