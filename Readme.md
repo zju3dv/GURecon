@@ -5,7 +5,7 @@
 
 > [GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction](https://zju3dv.github.io/GURecon),  
 > Zesong Yang, Ru Zhang, Jiale Shi, Zixiang Ai, Boming Zhao, Hujun Bao, Luwei Yang, Zhaopeng Cui,  
-> AAAI 2025
+> AAAI 2025 Oral
 
 
 https://github.com/user-attachments/assets/199a0126-d4f0-4165-ab74-1bfd6f47a80e
